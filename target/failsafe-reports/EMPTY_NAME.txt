@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: EMPTY_NAME
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.435 s <<< FAILURE! - in EMPTY_NAME
+EMPTY_NAME.Get all product  Time elapsed: 0.435 s  <<< ERROR!
+java.lang.NullPointerException
+

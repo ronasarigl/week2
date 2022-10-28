@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Get cart","get all cart","SUCCESS","2022-10-27T22:49:30.5991425+07:00[Asia/Bangkok]","0.0","3.53"
+"User login","Login with valid username and password","SUCCESS","2022-10-27T22:49:30.4931392+07:00[Asia/Bangkok]","0.0","3.78"
+"Delete user","delete a user","SUCCESS","2022-10-27T22:49:30.6041429+07:00[Asia/Bangkok]","0.0","3.68"

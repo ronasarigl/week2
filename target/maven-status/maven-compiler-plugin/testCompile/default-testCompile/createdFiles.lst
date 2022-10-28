@@ -1,0 +1,9 @@
+starter\Stepdefiniton\LoginStep.class
+starter\Project\DeleteUser.class
+starter\Project\Login.class
+starter\CucumberTestSuite.class
+starter\Project\GetCart.class
+starter\Project\GetProduct.class
+starter\Stepdefiniton\GetProductStep.class
+starter\Stepdefiniton\GetCartStep.class
+starter\Stepdefiniton\UserSteps.class
